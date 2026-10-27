@@ -34,19 +34,10 @@ Sou apaixonado por tecnologia, programação e desenvolvimento de soluções dig
 
 ---
 
-## 🌟 Meus projetos
-
-### 🚌 Transporte Escolar Inteligente
-Plataforma para acompanhamento de rotas e paradas.
+## 🌟 Projetos
 
 ### 🌐 Desenvolvimento de Websites
 Sites responsivos para empresas e estabelecimentos.
-
-### 💬 Arcoverde em Diálogo
-Projeto de participação e comunicação digital.
-
-### ❤️ LoveSpace
-Aplicação interativa para casais.
 
 ---
 
@@ -54,6 +45,6 @@ Aplicação interativa para casais.
 
 **Disponível para projetos e parcerias!**
 
-Desenvolvimento de sites, landing pages e sistemas.
+Desenvolvimento de sites e sistemas.
 
 </div>
