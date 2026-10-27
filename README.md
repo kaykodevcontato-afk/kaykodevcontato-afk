@@ -1,1 +1,59 @@
-# DevKayko
+
+<div align="center">
+
+# 👽 Olá, eu sou Kayko!
+
+### 💻 Desenvolvedor de Sistemas
+
+**Transformando ideias em experiências digitais.**
+
+📍 Arcoverde - Pernambuco, Brasil
+
+🌐 Desenvolvimento Web | Sistemas | Tecnologia
+
+---
+
+## 🚀 Sobre mim
+
+Sou apaixonado por tecnologia, programação e desenvolvimento de soluções digitais.
+
+🎓 Estudante da área de Tecnologia da Informação  
+💻 Desenvolvedor de sites e aplicações web  
+🚀 Criando projetos para empresas e negócios  
+📚 Sempre aprendendo novas tecnologias
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌟 Meus projetos
+
+### 🚌 Transporte Escolar Inteligente
+Plataforma para acompanhamento de rotas e paradas.
+
+### 🌐 Desenvolvimento de Websites
+Sites responsivos para empresas e estabelecimentos.
+
+### 💬 Arcoverde em Diálogo
+Projeto de participação e comunicação digital.
+
+### ❤️ LoveSpace
+Aplicação interativa para casais.
+
+---
+
+## 📫 Vamos conversar?
+
+**Disponível para projetos e parcerias!**
+
+Desenvolvimento de sites, landing pages e sistemas.
+
+</div>
