@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/kayko-banner.png" width="100%" alt="Kayko Dev - Desenvolvedor de Sistemas">
+<img src="assets/kayko-banner.png" width="100%" alt="Kayko Dev - Desenvolvedor de Sistemas">
 
 <br>
 
